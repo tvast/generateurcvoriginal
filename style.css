@@ -25,3 +25,11 @@
 .logow{
 	width: 50%;
 }
+
+.border {
+	border: solid black 1px;
+}
+
+.bigtitle {
+	font-size: 2em
+}
